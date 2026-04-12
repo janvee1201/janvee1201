@@ -29,7 +29,7 @@
 - 🧠 Focus: LLM Systems, RAG Pipelines, Deep Learning, Agentic AI  
 - ⚡ Strength: Transforming unstructured data into intelligent systems  
 - 🚀 Currently: Building scalable AI solutions for real-world problems  
-- 🔍 Interests: Hyperspectral Imaging, Transformer Architectures, AI Agents  
+- 🔍 Interests: GenAI, Transformer Architectures, AI Agents & Automation
 
 ---
 
